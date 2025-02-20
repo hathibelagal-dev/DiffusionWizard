@@ -1,5 +1,8 @@
 # DiffusionWizard
-A collection of Jupyter notebooks that can be used to generate images using various Stable Diffusion checkpoints.
+
+<img src="https://raw.githubusercontent.com/hathibelagal-dev/DiffusionWizard/refs/heads/main/assets/diffusionwizard.png" style="width:320px"/>
+
+This project is a collection of Jupyter notebooks that can be used to generate and modify images using various Stable Diffusion checkpoints.
 
 Do you want to run an image generation model you found on CivitAI on Google colab? Well, these notebooks are probably all you need. Currently, the following functionality is tested and available:
 
